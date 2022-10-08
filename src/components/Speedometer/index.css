@@ -1,0 +1,35 @@
+.bg-card {
+  height: 100vh;
+  width: 65vw;
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+  font-size: 40px;
+  color: #ffff;
+}
+img {
+  height: 150px;
+  width: 300px;
+}
+.heading {
+  color: #ffff;
+}
+p {
+  color: #ffff;
+  font-size: 14px;
+}
+.buttons-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.button1 {
+  cursor: pointer;
+}
+.button2 {
+  cursor: pointer;
+}
